@@ -1,0 +1,13 @@
+{
+    "cSpell.words": [
+        "cels",
+        "nestjs"
+    ],
+    "[typescript]": {
+        "editor.codeActionsOnSave": {
+            "source.fixAll": true,
+            "source.organizeImports": true
+        },
+        "editor.formatOnSave": true
+    }
+}
